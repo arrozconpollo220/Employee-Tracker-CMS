@@ -13,7 +13,7 @@ const pool = new Pool(
     host: 'localhost',
     database: 'employees_db'
   },
-  console.log(`Connected to the employees_db database.`)
+  console.log(`Connected to the employees database.`)
 )
 
 //creating inquirer prompt for a list of options to select in the terminal
