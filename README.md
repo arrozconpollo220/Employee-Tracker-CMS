@@ -47,7 +47,8 @@
   N/A
 
   ## Screenshots
-  
+  [Employee-Tracker-CMS Video.webm](https://github.com/user-attachments/assets/35ce4025-4948-4c5c-8e07-2425058b2b4f)
+
 
   ## Questions?
   Any questions regarding this project can be answered by contacting me through my GitHub Profile at https://github.com/arrozconpollo220 or at my email address at alexander.rodriguez2121@gmail.com. 
